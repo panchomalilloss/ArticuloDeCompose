@@ -38,11 +38,3 @@ Los textos se encuentran en el archivo `strings.xml` para facilitar la internaci
 - `GreetingPreview`: Permite previsualizar el componente en tiempo de diseño.
 - `strings.xml`: Valores de texto reutilizables para distintas lenguas.
 
-## Contribuciones
-
-Si quieres aportar, abre un issue o pull request describiendo tu propuesta o mejora.
-
-## Licencia
-
-Indica aquí tu licencia (ejemplo: MIT, Apache 2.0, etc).
-
